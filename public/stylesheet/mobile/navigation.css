@@ -1,12 +1,8 @@
-* {
-  background: purple;
-}
-
 nav {
   text-align: center;
 }
 nav h1 {
-  color: white;
+  color: red;
 }
 
 /*# sourceMappingURL=navigation.css.map */

@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../../../assets/sass/mobile/navigation.scss"],"names":[],"mappings":"AAAA;EACC;;;AAGD;EACC;;AAEA;EACC","file":"navigation.css"}
+{"version":3,"sourceRoot":"","sources":["../../../assets/sass/mobile/navigation.scss","../../../assets/sass/global/variables.scss"],"names":[],"mappings":"AAEA;EACC;;AAEA;EACC,OCNc","file":"navigation.css"}

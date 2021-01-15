@@ -1,11 +1,9 @@
-* {
-	background: purple;
-}
+@import '../global/variables.scss';
 
 nav {
 	text-align:	center;
 
 	h1 {
-		color: white;
+		color: $background-01;
 	}
 }
